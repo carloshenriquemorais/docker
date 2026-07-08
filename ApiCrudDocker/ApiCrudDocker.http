@@ -1,0 +1,6 @@
+@ApiCrudDocker_HostAddress = http://localhost:5274
+
+GET {{ApiCrudDocker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
